@@ -517,6 +517,7 @@ static ALL_PROPERTIES: [&str; 553] = [
     "text-anchor",
     "text-rendering",
     "textLength",
+    "transform-box",
     "to",
     "type",
     "u1",
